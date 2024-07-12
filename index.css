@@ -1,0 +1,13 @@
+h1 {
+    font-size: 20px;
+    color: blueviolet;
+    
+}
+p {
+    font-size: 30px;
+    color: red;
+}
+
+.output {
+    color: blueviolet;
+}
